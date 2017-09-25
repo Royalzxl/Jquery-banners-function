@@ -10,7 +10,7 @@
  *       tabType : "mouseenter" or "click",// 默认click 可有可无
  *       time : 2000 // time 为真即可
  *   });
- * take care:布局应是这种布局
+ * take care:布局应是这种布局格式
  *    <div id="banner">
  *          <div class="pic">
  *              <ul>
